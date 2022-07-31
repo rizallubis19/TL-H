@@ -363,7 +363,7 @@ section.facilities {
 /* call to action TEAM*/
 .cta {
   margin: 58px;
-  background-image: linear-gradient(to right, #3f2321, transparent), url(../img/17.jpg);
+  background-image: linear-gradient(to right, #3f2321, transparent), url(img/17.jpg);
   background-size: cover;
   background-position: center;
   border-radius: 10px;
